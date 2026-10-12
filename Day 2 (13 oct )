@@ -1,0 +1,4 @@
+I have learn the if your docker compose not working properly you have to shift the storage from main to differnt department by checking through the lsblk command 
+then install sudo apt install cloud-guest-utils 
+then write the sudo growpart (file location )
+then check if done or not 
