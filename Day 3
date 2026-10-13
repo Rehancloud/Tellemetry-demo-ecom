@@ -1,0 +1,5 @@
+I tried to make a Dockerfile for the microservice product catalog
+I built it step by step 
+But I am getting this error: "  ERROR: docker: 'docker buildx build' requires 1 argument Usage: docker buildx build [OPTIONS] PATH | URL | - Run 'docker buildx buid" 
+I solved it was location at the end by the . at the end 
+I made a Dockerfile, built it, and ran it successfully 
