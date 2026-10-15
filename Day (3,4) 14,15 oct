@@ -1,0 +1,12 @@
+Today, I made the Dockerfile with three services:
+Product catalog in Go 
+An ads service in Java
+Recommendation model service in Python 
+In Java, I made the Gradle file-related Dockerfile
+In Python, I faced a problem where I was using Python version 3.15, but the Dockerfile I made with it was version 3.12; it was mismatched, so I fixed it 
+Next day 
+I combined all the services with docker compose up and opened the IP address; it was working fine 
+then 
+I pushed all my services' Dockerfiles to Docker Hub by authenticating the services, and the fun fact was that one of my images has 10,000 downloads it was crazy for me 
+From now on, I will push my images to Docker Hub, but the point is I am not able to push to GitHub from EC2. I will try 
+I have learned about the common differences between Docker and Kubernetes. I have learned more about it.................
