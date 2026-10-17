@@ -1,0 +1,16 @@
+I install Terraform and write the code
+terraform init 
+terraform build 
+terraform apply
+I don't have to learn the code for Terraform because there is the AWS documentation aws  
+I connected the authentication to AWS, where I built the S3 bucket and made the DynamoDB table without actually doing on the website made several problems likes 
+s3 bucket name already exists, so I changed the name; there were many basic syntax errors, which I improved day by day
+Made the folder modules and  files for the EKS and VPC where
+main.tf
+output.tf
+variables.tf
+Wrote the code with the help of the official Terraform documentation. 
+Made lots of mistakes with the folder structure: 3 folders; every folder has 3 files(main, output, variables)tf, so many terms, so much confusion
+
+
+
