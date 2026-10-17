@@ -1,4 +1,6 @@
-I install Terraform and write the code
+I installed Terraform and created the secret access key and secret access password and connected it as the root user, not as the IAM user, because I have root access to my AWS account 
+and it is not the right approach for security reasons
+Write the code
 terraform init 
 terraform build 
 terraform apply
