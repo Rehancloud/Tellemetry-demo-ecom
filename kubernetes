@@ -1,3 +1,6 @@
 start to learn the k8s from practically 
 minikube install and learn to work properly
 1. i have setup the all the download but the my domain name dns settting is not working properly i am not able to run the kops cluster for master nodes today.
+
+2. I have resolve the issue with the technical support of the go daddy now i can add the records to dns with NS 
+
